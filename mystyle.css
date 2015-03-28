@@ -1,0 +1,24 @@
+	body {
+		background-image:url(http://www.srednja.hr/Photos/Razno/Fotogalerije/070212_helix_hmed_10a.jpg);
+		background-size: cover;
+		margin:5% 
+
+	}
+	p{
+		color:white;
+		outline:dashed;
+		outline-color:blue;
+		text-align:center;
+		font-size:35px;
+	}
+#myid {
+	color:black;
+}
+.media{
+	color:purple;
+
+}
+.duck{
+	text-align: center;
+}
+
